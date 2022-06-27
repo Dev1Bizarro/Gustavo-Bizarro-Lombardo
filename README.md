@@ -1,4 +1,5 @@
-# Olá! My names is Gustavo-Bizarro-Lombardo
+# Olá! Sou o Gustavo Bizarro, Seja vem vindo aos meus repositórios.
+- 💥 Eis o que estou fazendo no momento.
 - 👨‍🎓 Cursando último semestre em Analise e Desenvolvimento de Sistemas;
 - 👨‍🎓 Trabalho com Front End;
 - 👨‍🎓 Estudando javaScript;
